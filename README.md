@@ -15,3 +15,10 @@ To develop a Power BI dashboard that consolidates 3,600 transaction records, pro
 - **Optimized ETL Processes:** Reduced manual data updates by 20%, ensuring the dashboard is always up-to-date with automated data refreshes.
 - **Real-Time Analysis with DAX Functions:** Used calculated columns and measures for complex aggregations, enabling instant trend analysis.
 - **Dynamic and Interactive Visualizations:** Created interactive pie charts, bar graphs, and geo maps for clear, multi-dimensional analysis of data.
+
+  # Key Learnings
+Gained experience in **Power BI data modeling**, which improved report flexibility and reduced calculation times.
+Learned to **optimize ETL processes**, significantly improving data refresh rates and reducing manual efforts by 20%.
+Developed skills in **DAX functions** for complex calculations, enabling faster, deeper analytical insights.
+Recognized the importance of **cross-departmental collaboration** by designing dashboards that serve diverse team needs.
+Understood the value of **user-centric design** for creating intuitive and interactive dashboards that enhance data exploration.
